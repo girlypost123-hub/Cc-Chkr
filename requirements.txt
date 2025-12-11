@@ -8,3 +8,4 @@ cloudscraper
 httpx
 pytz
 asyncpg
+gunicorn
