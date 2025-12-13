@@ -10,4 +10,4 @@ pytz
 asyncpg
 gunicorn
 app
-app:app
+
